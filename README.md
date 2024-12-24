@@ -12,7 +12,7 @@ This repository contains a simple "Hello World" web server built with Rust and t
 
 2. **Create the Workspace**:
    ```bash
-   daytona create <https://github.com/programmersoham/Hello-World-Actix-Server/>
+   daytona create https://github.com/daytonaio/sample-rust-actix-server
    ```
   
 
